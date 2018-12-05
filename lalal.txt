@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 haha aaaaaaaaa  :(
+=======
+haha aaaaaaaaa
+ZMIANIAM PLIK PIERWSZY!
+>>>>>>> f6ce64e0db557b33659bce317a69e9489053404a
